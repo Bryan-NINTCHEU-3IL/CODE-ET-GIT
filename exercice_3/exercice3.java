@@ -19,4 +19,7 @@ public class StockManager {
             System.out.println("Opération inconnue.");
         }
     }
-}
+}djfjnfiflkrflf
+fnjrnfknfklgf
+gvgvjfnkr,gtv
+
